@@ -1,0 +1,1 @@
+prometheus.exe --config.file=./prometheusConfig/prometheus.yml --web.listen-address=:9091
