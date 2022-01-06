@@ -1,1 +1,0 @@
-prometheus.exe --config.file=./config/prometheus.yml --web.listen-address=:9091 --web.enable-lifecycle
